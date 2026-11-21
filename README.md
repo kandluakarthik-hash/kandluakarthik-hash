@@ -34,3 +34,11 @@
 
 ---
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kandluakarthik-hash&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kandluakarthik-hash&theme=tokyonight)
